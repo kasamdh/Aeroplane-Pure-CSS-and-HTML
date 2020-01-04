@@ -2,7 +2,6 @@
 Author Kasam Dhakal 
 **/
 
-
 body {
   background: #0F0F18;
 }
@@ -11,6 +10,7 @@ body {
   height: 310px;
   margin: 20px auto 200px;
   position: relative;  
+  /* background-color: #B9B8CC; */
 }
 
 .tail{
@@ -18,4 +18,11 @@ body {
   height: 135px;
   background-color: #B9B8CC;
   border-top-left-radius: 50% 30%;
+  border-top-right-radius: 50% 30%;
+  position: absolute;
+  left: 49.5%;
+  top: 3px;
+  overflow: hidden;
+
+  
 }
