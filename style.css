@@ -4,6 +4,7 @@ Author Kasam Dhakal
 
 body {
   background: #0F0F18;
+  /* background: #c9dbe9; */
 }
 .plane {
   width: 1100px;
@@ -52,6 +53,15 @@ body {
   border-width: 120px 0 0 10px;
   border-color: transparent transparent transparent #656479;
   position: absolute;
-
-
+}
+.nose{
+  width: 200px;
+  height: 200px;
+  background-color: #B9B8CC;
+  position: absolute;
+  left: 50.1%;
+  top: 44.5%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  border-radius: 50%;
 }
