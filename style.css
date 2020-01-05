@@ -2,9 +2,14 @@
 Author Kasam Dhakal 
 **/
 
-
-body {
-  background: #0F0F18;
+h1{
+  color: white;
+}
+.mybody{
+  height: 100vh;
+  margin: 0;
+  background: radial-gradient(#387989, #6dd5ed);
+  background-repeat: no-repeat;
 }
 
 .plane {
