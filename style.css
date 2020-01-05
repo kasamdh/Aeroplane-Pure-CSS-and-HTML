@@ -75,4 +75,15 @@ body {
   top: -20%;
   left: -15%;
 }
+.plane-back-body{
+  width: 165px;
+  height: 80px;
+  background: -webkit-linear-gradient(left, #D5D4E7 0%, #68687D 100%); 
+  background: linear-gradient(left, #D5D4E7 0%, #68687D 100%);
+  position: absolute;
+  left: 42.6%;
+  top: 60.5%;
+  border-radius: 50%/100%;
+  z-index: -100;
+}
 
