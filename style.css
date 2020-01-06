@@ -3,7 +3,7 @@ Author Kasam Dhakal
 **/
 
 h1{
-  color: black;
+  color: white;
 }
 .mybody{
   height: 100vh;
@@ -21,7 +21,7 @@ h1{
   position: relative;  
 }
 
-.tail {
+/* .tail {
   width: 12px;
   height: 135px;
   background-color: #B9B8CC;
@@ -31,7 +31,7 @@ h1{
   left: 49.6%;
   top: 3px;
   overflow: hidden;
-}
+} */
 
 .tail-a {
   position: absolute;
